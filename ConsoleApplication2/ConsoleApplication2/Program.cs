@@ -11,6 +11,8 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
             Console.WriteLine("Our First Project");
+            Console.WriteLine("updated project");
+
         }
     }
 }
